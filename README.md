@@ -14,12 +14,12 @@ This is a solution to the [QR code component challenge on Frontend Mentor](https
 The main idea of ​​the project is to replicate it. 
 ### Screenshot
 
-![](ss/ss-solution.jpg)
+![solution](ss/ss-solution.jpg)
 
 
 ### Links
 
-- Solution URL: [QR_page](https://your-solution-url.com)
+- Solution URL: [QR_page](https://pachecokaty.github.io/qr-page/)
 
 
 ### Built with
