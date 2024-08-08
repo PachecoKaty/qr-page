@@ -5,17 +5,12 @@ This is a solution to the [QR code component challenge on Frontend Mentor](https
 ## Table of contents
 
 - [Overview](#overview)
-  - [Screenshot](#screenshot)
   - [Links](#links)
 - [Author](#author)
 
 
 ## Overview
 The main idea of ​​the project is to replicate it. 
-### Screenshot
-
-![solution](https://github.com/PachecoKaty/qr-page/blob/main/ss/ss-solution.png)
-
 
 ### Links
 
